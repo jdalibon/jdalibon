@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jdalibon
 - 👀 I’m interested in data analytics and public finance
-- 🌱 I’m currently learning ShinyApp and Plotly Dashboard
+- 🌱 Vibe Coding with @MistralAI
 - 📫 How to reach me : jodalibon@gmail.com
 - https://twitter.com/DalibonJoseph 
 - https://www.linkedin.com/in/joseph-dalibon-8ab67a175/ 
